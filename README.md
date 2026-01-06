@@ -10,3 +10,5 @@ Language Models
 	Language Models
 	
 	SVD_and_Embeddings_Illustration
+
+Pytorch Tutorial
