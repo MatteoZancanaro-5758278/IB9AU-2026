@@ -25,3 +25,31 @@ Reinforcement Learning
 	RL1 - Reinforcement Learning Illustration
 	
 	RL2 - Qwen Reasoning LLM
+
+MLMs
+
+	MLM1 - Vision Transformers and Embeddings
+	
+	MLM2 - OCR with Gemini
+	
+	MLM3 - Fundamental Concepts of Diffusion
+	
+	MLM4 - Diffusion_1D_Teaching_Notebook
+	
+	MLM5 - Flow_Matching_1D_Teaching_Notebook
+	
+	MLM6 - Diffusion Illustration
+	
+	MLM7 - Diffusion - Financial Document Generation
+	
+	MLM8 - Flow Matching – Financial Document Generation
+	
+	MLM9 - Flow Matching - Receipt Generation
+
+Saved Models
+
+	fintech_diffusion_model.pth
+
+	fintech_flow_model.pth
+
+	fintech_receipt_flow_model.pth
