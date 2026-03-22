@@ -53,3 +53,47 @@ Saved Models
 	fintech_flow_model.pth
 
 	fintech_receipt_flow_model.pth
+
+RAG
+
+	RAG1 - Long Context
+
+	RAG2 - Long Context V2
+
+	RAG3 - Text Based
+
+	RAG4 - Multimodal Chunking Gemini
+
+	RAG5 - Multimodal Chunking OpenSourced
+
+Fine tuning
+
+	FT1 - The Need
+
+	FT2 - Fine tuning with LLM
+
+	FT3 - Fine runing with Appropriate LLM
+
+	FT4 - Fine tuning with Image Data
+
+	FT5 - The App
+
+Agents
+
+	Agents1
+
+	Agents2
+
+	Agents3
+
+	Agents4
+
+Synthetic Data
+
+	SD1 - Auto Encoder Illustration
+
+	SD2 - Variational_Autoencoder_(VAE)_Illustration
+
+	SD3 - GAN Illustration
+
+	SD4 - Synthetic Loan Data Generation with CTGAN & TVAE
